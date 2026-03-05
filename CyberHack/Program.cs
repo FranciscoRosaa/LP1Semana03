@@ -6,7 +6,12 @@ namespace CyberHack
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            string sistema = Console.ReadLine();
+            string ferramentas = Console.ReadLine();
+            bool hacked = false;
+            
+            }
         }
     }
-}
+
+
